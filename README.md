@@ -43,3 +43,7 @@ It will iterate, and will take some time to train the model, like 15-20 mins.
      python label.py
      
 It'll open a new window of OpenCV and then identifies your Facial Expression.
+
+NOTE : I took very less number of images to train, so , it results into appx 66% accuracy.
+I suggest you to train with atleast 150-200 images to get 85+% accuracy. 
+Thanks!
